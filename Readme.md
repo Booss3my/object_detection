@@ -1,12 +1,9 @@
 # setup model
-
 bash ./model_files/yolov5_files/setup.sh
 
 
 # get data
-
-
-bash ./data/get_kaggle
+bash ./data/get_kaggle_data.sh b00ss3my/Bollwrom-ds
 
 
 # Tune files 

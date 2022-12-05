@@ -1,4 +1,9 @@
-cd /home/booss3my/Python/object_detection/model_files
+#!/usr/bin/env bash
+
+BASEDIR="model_files"
+
+
+cd $BASEDIR
 
 git clone https://github.com/ultralytics/yolov5
 
